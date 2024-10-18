@@ -1,1 +1,2 @@
 Pruebas del ejercicio 2 del curso git
+Nuevos cambios en el fichero.
